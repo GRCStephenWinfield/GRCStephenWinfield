@@ -12,8 +12,7 @@
 
 <h2>👨‍💻 GRC Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>D[GRC Enterprise Risk and Control Assessment](https://github.com/GRCStephenWinfield/grc-enterprise-risk-and-control-assessment)
 
 
 <h2>📺 Popular YouTube Videos</h2>
