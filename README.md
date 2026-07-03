@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 GRC Projects:</h2>
 
-- <b>D[GRC Enterprise Risk and Control Assessment](https://github.com/GRCStephenWinfield/grc-enterprise-risk-and-control-assessment)
+- <b>[GRC Enterprise Risk and Control Assessment](https://github.com/GRCStephenWinfield/grc-enterprise-risk-and-control-assessment)
 
 
 <h2>📺 Popular YouTube Videos</h2>
