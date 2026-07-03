@@ -17,7 +17,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [I Built a Cybersecurity GRC Portfolio From Scratch](https://youtube.com/shorts/xd7Tt0Ty2gs?feature=share)
 
 <h2> 🤳 Connect with me:</h2>
 
