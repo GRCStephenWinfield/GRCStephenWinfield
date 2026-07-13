@@ -17,7 +17,7 @@
 <h2>👨‍💻 GRC Projects:</h2>
 
 - **[Bank/Fintech GRC Enterprise Risk and Control Assessment](https://github.com/GRCStephenWinfield/grc-enterprise-risk-and-control-assessment)**
-- **[HIPAA GRC Enterprise Risk and Control Assessment](https://github.com/GRCStephenWinfield/grc-enterprise-risk-and-control-assessment)**
+- **[HIPAA GRC Enterprise Risk and Control Assessment](https://github.com/GRCStephenWinfield/enterprise-hipaa-grc-assessment-playbook/blob/main/README.md)**
 
 <h2>📺 Popular YouTube Videos</h2>
 
