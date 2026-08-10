@@ -16,8 +16,6 @@
 
 <h2>👨‍💻 GRC Projects:</h2>
 
-- **[Bank/Fintech GRC Enterprise Risk and Control Assessment](https://github.com/GRCStephenWinfield/grc-enterprise-risk-and-control-assessment)**
-- **[HIPAA GRC Enterprise Risk and Control Assessment](https://github.com/GRCStephenWinfield/enterprise-hipaa-grc-assessment-playbook/blob/main/README.md)**
 - **[FedRAMP Cloud Security Assessment Portfolio](https://github.com/GRCStephenWinfield/fedramp-cloud-security-assessment-portfolio/blob/main/README.md)**
 - **[Electric Utility NERC CIP Program](https://github.com/GRCStephenWinfield/electric-utility-nerc-cip-program/blob/main/README.md)**
 - **[Community Bank — GLBA / FFIEC / SOX Information Security & Compliance Program](https://github.com/GRCStephenWinfield/community-bank-glba-ffiec-program/blob/main/README.md)**
