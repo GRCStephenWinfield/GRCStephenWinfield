@@ -19,7 +19,7 @@
 - **[FedRAMP Cloud Security Assessment Portfolio](https://github.com/GRCStephenWinfield/fedramp-cloud-security-assessment-portfolio/blob/main/README.md)**
 - **[Electric Utility NERC CIP Program](https://github.com/GRCStephenWinfield/electric-utility-nerc-cip-program/blob/main/README.md)**
 - **[Community Bank — GLBA / FFIEC / SOX Information Security & Compliance Program](https://github.com/GRCStephenWinfield/community-bank-glba-ffiec-program/blob/main/README.md)**
-- **[Regional Hospital HIPAA Security Program](https://github.com/GRCStephenWinfield/regional-hospital-hipaa-security-program/blob/main/README.md#%EF%B8%8F-repository-map--links-to-every-folder)**
+- **[Regional Hospital HIPAA Security Program](https://github.com/GRCStephenWinfield/regional-hospital-hipaa-security-program/blob/main/README.md)**
 
 <h2>📺 Popular YouTube Videos</h2>
 
